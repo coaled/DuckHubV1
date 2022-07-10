@@ -4,4 +4,4 @@
 # $10
 
 # Supported Games
-1. GPO
+1. Lifting Simulator
