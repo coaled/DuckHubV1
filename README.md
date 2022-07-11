@@ -4,4 +4,7 @@
 # $10
 
 # Supported Games
-1. Lifting Simulator
+none yet
+
+# in Development
+ release idk lol
